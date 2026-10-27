@@ -5,7 +5,7 @@ An interactive Power BI dashboard analysing Superstore sales performance, built 
 ## Business Objective
 Help management understand overall performance, identify the strongest and weakest regions, segments, categories and products, track trends over time, and decide what actions to take.
 
-![Superstore Sales Dashboard](dashboard.png)
+![Superstore Sales Dashboard](IMG_3561)
 
 ## Key Metrics
 | Metric | Value |
